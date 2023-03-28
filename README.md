@@ -1,4 +1,6 @@
-_printf _printf is a custom implementation of the C programming function printf.
+_printf 
+
+_printf is a custom implementation of the C programming function printf.
 
 Prototype: int _printf(const char *, ...);
 
@@ -32,9 +34,10 @@ contains arguments types used for _printf. get_flags.c
 
 contains all function for each flag use for _printf. utils.c
 
-contains some necessary functionalities for _printf. ger_width.c
+contains some necessary functionalities for _printf. get_width.c
 
-contains functions to get width for spcifics spcifiers. writee_handlers.c
+contains functions to get width for specifics spcifiers. write_handlers.c
 
 contains write functions.
+
  By Yvette Akakpo and Habeeb Ajayi
